@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Nikita </h1>
+<div>
+    <a align="left" href="https://papertoilet.com/">
+        <img
+            src="https://komarev.com/ghpvc/?username=sknptsv&style=for-the-badge&color=00AA00"
+            alt="View Count"
+            title="View count (click for something interesting)">
+    </a>
+</div>
 
-<!--
-**skpntsv/skpntsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🦕 About me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨ I'm 21 years old
+- 🌻 3rd year bachelor's degree student
+<!---
+- 🧰 [Link to my CV](не скажу))
 -->
+
+### ✨ Links:
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/skpntsv)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:n1skopintsev@gmail.com)
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpntsv&show_icons=true&theme=onedark&layout=donut-vertical&cache_seconds=1800" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=onedark&cache_seconds=1800" />
+  </a>
+</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="down" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=skpntsv&repo=NSULabs&theme=onedark&cache_seconds=2000" />
+</a>
+
+<br clear="all" />
