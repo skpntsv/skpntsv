@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita </h1>
 <div>
-    <a align="left" href="https://papertoilet.com/">
-        <img
-            src="https://komarev.com/ghpvc/?username=sknptsv&style=for-the-badge&color=00AA00"
-            alt="View Count"
-            title="View count (click for something interesting)">
+    <a align="left">
+        <img src="https://komarev.com/ghpvc/?username=sknptsv&style=for-the-badge&color=1B5754" alt="View Count"
     </a>
 </div>
 
@@ -23,16 +20,16 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpntsv&show_icons=true&theme=onedark&layout=donut-vertical&cache_seconds=1800" />
+    <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpntsv&show_icons=true&theme=ambient_gradient&layout=normal&cache_seconds=1800" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=onedark&cache_seconds=1800" />
+    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=ambient_gradient&cache_seconds=1800" />
   </a>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="down" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=skpntsv&repo=NSULabs&theme=onedark&cache_seconds=2000" />
+  <img align="down" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=skpntsv&repo=NSULabs&theme=ambient_gradient&cache_seconds=2000" />
 </a>
 
 <br clear="all" />
