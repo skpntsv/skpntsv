@@ -24,7 +24,7 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=ambient_gradient&cache_seconds=1800" />
+    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=ambient_gradient&cache_seconds=1800&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
