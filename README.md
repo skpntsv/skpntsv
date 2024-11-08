@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Nikita </h1>
+<h3 align="center">Computer science student</h3>
 <div>
     <a align="left">
         <img src="https://komarev.com/ghpvc/?username=sknptsv&style=for-the-badge&color=1B5754" alt="View Count"
@@ -7,8 +8,9 @@
 
 ### 🦕 About me:
 
-- ✨ I'm 21 years old
-- 🌻 3rd year bachelor's degree student
+- ✨ I'm 22 years old
+- 🌻 4rd year bachelor's degree student
+- 📱 I'am currently android developer
 <!---
 - 🧰 [Link to my CV](не скажу))
 -->
@@ -20,16 +22,16 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpntsv&show_icons=true&theme=ambient_gradient&layout=normal&cache_seconds=1800" />
+    <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpntsv&show_icons=true&layout=normal&cache_seconds=1800" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&theme=ambient_gradient&cache_seconds=1800&rank_icon=github&include_all_commits=true" />
+    <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=skpntsv&show_icons=true&cache_seconds=1800&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="down" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=skpntsv&repo=NSULabs&theme=ambient_gradient&cache_seconds=2000" />
+  <img align="down" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=skpntsv&repo=NSULabs&cache_seconds=2000" />
 </a>
 
 <br clear="all" />
